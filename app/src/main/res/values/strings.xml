@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="base_url">http://fathomless-shelf-5846.herokuapp.com/api/</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Prev</string>
+    <string name="schedule_company_meeting">Schedule Company Meeting</string>
+
+
+    <string name="schedule">Schedule</string>
+    <string name="submit">Submit</string>
+    <string name="schedule_a_meeting">SCHEDULE A MEETING</string>
+
+</resources>
